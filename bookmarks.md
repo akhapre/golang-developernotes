@@ -1,1 +1,2 @@
-[5 Most Useful Golang Functions For Leetcode](https://medium.com/@contact.youjinkwon/5-most-useful-golang-functions-for-leetcode-a583264dfdd6)
+- [5 Most Useful Golang Functions For Leetcode](https://medium.com/@contact.youjinkwon/5-most-useful-golang-functions-for-leetcode-a583264dfdd6)
+- [Understanding Memory in Golang : Stack vs Heap](https://medium.com/@contact.youjinkwon/understanding-memory-in-golang-stack-vs-heap-32e16a931687)
